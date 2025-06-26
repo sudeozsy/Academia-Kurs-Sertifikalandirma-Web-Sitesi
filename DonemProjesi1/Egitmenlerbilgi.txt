@@ -1,0 +1,12 @@
+Eğitmen Giriş:
+alitasci@gmail.com    12345678
+gemici@gmail.com      12341234
+sinembicer@gmail.com  43214321
+aysearici@gmail.com   ayse123
+kara@gmail.com        kara123
+
+Öğrenci Giriş:
+sudeoz@gmail.com      12345678
+saidari@gmail.com     12345678
+alirıza@gmail.com     ali123
+gizemyuce@gmail.com   gizem1234
